@@ -1,0 +1,17 @@
+{
+  "name": "sigeluVis",
+  "version": "0.0.1",
+  "description": "Painel Sigelu",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Equipe VisPublica",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "read-part-file": "^1.0.1",
+    "read-text-file": "^1.0.2",
+    "write": "^0.3.2"
+  }
+}
